@@ -1,0 +1,1 @@
+This website displays UCSB and five of my favorite destinations in California. Each location contains its name, with a hyperlink to a website with more information about the place, a short description of the place, and a picture of the place.
